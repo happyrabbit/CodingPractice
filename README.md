@@ -1,1 +1,3 @@
-# CodingPractice
+# Coding Practice
+
+Practice coding problems
